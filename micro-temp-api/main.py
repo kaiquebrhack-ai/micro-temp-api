@@ -129,3 +129,4 @@ def historico(
     cur.close()
     conn.close()
     return rows
+
